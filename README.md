@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Legal One - Coding Test 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Live on Vercel App
 
 In the project directory, you can run:
 
