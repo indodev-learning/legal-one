@@ -1,0 +1,21 @@
+.header {
+  background: white;
+  padding: 20px 10px;
+  box-shadow: 0 1px 2px #ddd;
+}
+
+.logo {
+  color: #FF9933;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.menu {
+  display: flex;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #555;
+  font-size: 14px;
+}
