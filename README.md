@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live on Vercel App
 
+Click this link: https://legal-one-puce.vercel.app/
+
+## Available Scripts
+
 In the project directory, you can run:
 
 ### `yarn start`
