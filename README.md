@@ -1,10 +1,6 @@
-# Legal One - Coding Test 
+# Legal One
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Live on Vercel App
-
-Click this link: https://legal-one-puce.vercel.app/
 
 ## Available Scripts
 
